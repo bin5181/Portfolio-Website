@@ -73,7 +73,7 @@ const skills = [
 
 const experience = [
    {
-    title: "CollegeTips",
+    title: "CollegeTippps",
     time: "Feb 2022 - Mar 2022",
     location: "Kurukshetra, IN",
     points: [
