@@ -20,19 +20,6 @@ const education = [
 ];
 
 
-const achievements = [
-  {
-    title: "Colours Club",
-    time: "Sep 2021 - Present",
-    location: "Kurukshetra, IN",
-    points: [
-      "It's a mental health awareness club.",
-      "I am the Head of Designing team here & lead event organizer.",
-      "I have designed some of the cool posters here and organized some of the events like GOT, Treasure Hunt, Bliss Games in the Confluence."
-    ],
-    links: [],
-  },
-];
 
 const skills = [
   {
@@ -46,7 +33,8 @@ const skills = [
       
       "Javascript",
       "HTML",
-      "CSS"
+      "CSS",
+      "Ruby"
     ],
   },
   {
@@ -63,7 +51,8 @@ const skills = [
   {
     title: "Platforms",
     items: [
-     
+      "Power BI",
+      "Tableau",
       "Unix",
       "Git",
       "SymboLab",
@@ -83,6 +72,16 @@ const skills = [
 ];
 
 const experience = [
+   {
+    title: "CollegeTips",
+    time: "Feb 2022 - Mar 2022",
+    location: "Kurukshetra, IN",
+    points: [
+      "It is India's fastest growing start-up whose only aim is to make students' life Easy and Happening.",
+      "Created some cool content related to college students.",
+    ],
+    links: [],
+  },
   {
     title: "CollegeTips",
     time: "Feb 2022 - Mar 2022",
