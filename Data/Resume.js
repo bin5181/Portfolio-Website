@@ -19,10 +19,7 @@ const education = [
   },
 ];
 
-const exams = [
-  { title: "JEE Mains", result: "AIR: 5126" },
-  { title: "JEE Advanced", result: "AIR: 3086" },
-];
+
 const achievements = [
   {
     title: "Colours Club",
@@ -131,4 +128,4 @@ const experience = [
   },
 ];
 
-export default { education, exams, skills, experience };
+export default { education, exams, achievements, skills, experience };
