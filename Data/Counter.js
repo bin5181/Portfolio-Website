@@ -10,13 +10,13 @@ const counterItems = [
   },
   {
     icon: "bi bi-question-circle-fill",
-    count: 350,
+    count: 500,
     duration: 0.5,
     title: "DSA Problems",
   },
   {
     icon: "bi bi-currency-dollar",
-    count: 500,
+    count: 1000,
     duration: 0.5,
     title: "Questions on Chegg",
   },
