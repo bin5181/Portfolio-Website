@@ -72,23 +72,15 @@ const skills = [
 ];
 
 const experience = [
-   {
-    title: "CollegeTippps",
-    time: "Feb 2022 - Mar 2022",
-    location: "Kurukshetra, IN",
-    points: [
-      "It is India's fastest growing start-up whose only aim is to make students' life Easy and Happening.",
-      "Created some cool content related to college students.",
-    ],
-    links: [],
-  },
+  
   {
-    title: "CollegeTips",
-    time: "Feb 2022 - Mar 2022",
-    location: "Kurukshetra, IN",
+    title: "Jade Digital Services",
+    time: "Jan 2023 - June 2023",
+    location: "Kurukshetra (Remote), IN",
     points: [
-      "It is India's fastest growing start-up whose only aim is to make students' life Easy and Happening.",
-      "Created some cool content related to college students.",
+      "It is India’s fastest growing start-up whose aim is to create the websites for various multinational companies.",
+      " I am currently working here on web tech. My basic work is to provide the properly aligned code for the company’s website, managing the company’s website and also to find the bugs in the existing code and debug them.",
+      "Currently working on tech-stack: Python, Html, CSS, React.Js, Node.Js, API"
     ],
     links: [],
   },
