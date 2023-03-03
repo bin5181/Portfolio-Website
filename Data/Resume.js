@@ -74,7 +74,7 @@ const skills = [
 const experience = [
   
   {
-    title: "Jade Digital Services",
+    title: "Jade Digital Service",
     time: "Jan 2023 - June 2023",
     location: "Kurukshetra (Remote), IN",
     points: [
