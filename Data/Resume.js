@@ -23,6 +23,19 @@ const exams = [
   { title: "JEE Mains", result: "AIR: 5126" },
   { title: "JEE Advanced", result: "AIR: 3086" },
 ];
+const achievements = [
+  {
+    title: "Colours Club",
+    time: "Sep 2021 - Present",
+    location: "Kurukshetra, IN",
+    points: [
+      "It's a mental health awareness club.",
+      "I am the Head of Designing team here & lead event organizer.",
+      "I have designed some of the cool posters here and organized some of the events like GOT, Treasure Hunt, Bliss Games in the Confluence."
+    ],
+    links: [],
+  },
+];
 
 const skills = [
   {
