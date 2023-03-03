@@ -28,18 +28,32 @@ const skills = [
   {
     title: "Languages",
     items: [
-      "Java",
+      "CPP",
       "Python",
       "C",
-      "CPP",
+      "Java",
+      
+      
       "Javascript",
       "HTML",
       "CSS"
     ],
   },
   {
+    title: "Design",
+    items: [
+     
+      "Figma",
+      "Canva",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe Indesign",
+    ],
+  },
+  {
     title: "Platforms",
     items: [
+     
       "Unix",
       "Git",
       "SymboLab",
@@ -48,13 +62,13 @@ const skills = [
       "Postmam",
     ],
   },
-  // {
-  //   title: "Frameworks",
-  //   items: ["React JS", "Next JS", "Flask", "Node JS"],
-  // },
+  {
+    title: "Frameworks",
+    items: ["React JS", "Flask", "Node JS"],
+  },
   {
     title: "Databases",
-    items: ["MySql", "MsExcel"],
+    items: ["Mongodb", "MySql", "MsExcel"],
   },
 ];
 
