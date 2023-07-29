@@ -4,19 +4,19 @@ let year = currDate.getFullYear() - 2020;
 const counterItems = [
   {
     icon: "bi bi-globe",
-    count: 5,
+    count: 10,
     duration: 0.5,
     title: "Websites",
   },
   {
     icon: "bi bi-question-circle-fill",
-    count: 500,
+    count: 800,
     duration: 0.5,
     title: "DSA Problems",
   },
   {
     icon: "bi bi-currency-dollar",
-    count: 1000,
+    count: 2500,
     duration: 0.5,
     title: "Questions on Chegg",
   },
