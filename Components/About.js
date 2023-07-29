@@ -5,7 +5,7 @@ import skills from "../Data/Skills";
 
 const About = () => {
   return (
-    <section id="about" className="about">
+    <section id="about" className="about"> 
       <div className="about-me container">
         <div className="section-title">
           <h2>About</h2>
