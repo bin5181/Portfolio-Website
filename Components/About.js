@@ -9,7 +9,7 @@ const About = () => {
       <div className="about-me container">
         <div className="section-title">
           <h2>About</h2>
-          <p>Learn more about me</p>
+          <p>Wanna know more about me?</p>
         </div>
         <div className="row">
           <div className="col-lg-4" data-aos="fade-right">
